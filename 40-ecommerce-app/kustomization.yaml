@@ -49,7 +49,7 @@ images:
   - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/cart
     newTag: "10"
   - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/checkout
-    newTag: "10"
+    newTag: "4"
   - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/currency
     newTag: "10"
   - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/email
