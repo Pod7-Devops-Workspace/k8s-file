@@ -1,4 +1,4 @@
-# Frontend proxy (Envoy) - entry point for shop.digitalwitch.online
+# Frontend proxy (Envoy) - entry point for shop.pod7devopsengineers.online
 apiVersion: v1
 kind: Service
 metadata:
