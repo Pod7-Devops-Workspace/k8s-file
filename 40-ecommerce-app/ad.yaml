@@ -37,7 +37,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: ad
-          image: 174022950431.dkr.ecr.us-west-2.amazonaws.com/ecomerce/ad:latest
+          image: 409415529627.dkr.ecr.us-west-2.amazonaws.com/ecomerce/ad:latest
           ports:
             - name: grpc
               containerPort: 9555

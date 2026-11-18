@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: image-provider
-          image: 174022950431.dkr.ecr.us-west-2.amazonaws.com/ecomerce/image-provider:latest
+          image: 409415529627.dkr.ecr.us-west-2.amazonaws.com/ecomerce/image-provider:latest
           ports:
             - name: http
               containerPort: 8081

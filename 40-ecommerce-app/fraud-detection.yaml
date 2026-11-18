@@ -19,7 +19,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: fraud-detection
-          image: 174022950431.dkr.ecr.us-west-2.amazonaws.com/ecomerce/fraud-detection:latest
+          image: 409415529627.dkr.ecr.us-west-2.amazonaws.com/ecomerce/fraud-detection:latest
           envFrom:
             - configMapRef:
                 name: app-env
