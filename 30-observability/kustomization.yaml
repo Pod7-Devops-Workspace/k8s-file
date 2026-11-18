@@ -81,4 +81,4 @@ configMapGenerator:
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
   - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/opamp-server
-    newTag: "10"
+    newTag: "14"
